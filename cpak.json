@@ -4,7 +4,7 @@
   "name": "KeePassXC",
   "description": "Store passwords in an encrypted local database.",
   "version": "2.7.12",
-  "image": "ghcr.io/containerpak/keepassxc@sha256:94ac521391f16e9ec4c3df8c127e471e6f30a0c8124074cac6dd5825a5b4c891",
+  "image": "ghcr.io/containerpak/keepassxc@sha256:350faa62c4bbce09e2a39a6cc15d29251f21b2782ab85bad1b8d9aa2a0d39eef",
   "binaries": [
     "/usr/bin/keepassxc"
   ],
